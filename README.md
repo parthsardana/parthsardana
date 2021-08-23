@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-parth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-sardana-106b301a6)]
 
-[![Website Badge](https://img.shields.io/badge/StackOverflow-parth-yellow)](https://stackoverflow.com/users/13022156/parth-sardana)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-parth-yellow)](https://stackoverflow.com/users/13022156/parth-sardana-)
 
 I'm
 Full Stack Developer
