@@ -1,15 +1,15 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Parth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-sardana-106b301a6)]
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Linkedin Badge](https://img.shields.io/badge/-parth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-sardana-106b301a6)]
+
+[![Website Badge](https://img.shields.io/badge/StackOverflow-parth-yellow)](https://stackoverflow.com/users/13022156/parth-sardana)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Full Stack Developer
+The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/parthsardana/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
