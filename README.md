@@ -13,7 +13,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Renuka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/renuka-maradagi-a06934212/)
+[![Linkedin Badge](https://img.shields.io/badge/-Parth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/parth-sardana-106b301a6/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Renuka-yellow)](https://www.Renuka.me)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Renuka-blue)](https://stackoverflow.com/users/16351154/renuka-maradagi?tab=profile)
 
