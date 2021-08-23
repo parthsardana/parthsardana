@@ -1,8 +1,7 @@
 ### Hi Developers 👋
 
-![Linkedin Badge](https://img.shields.io/badge/-parth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-sardana-106b301a6)
-![Website Badge](https://img.shields.io/badge/StackOverflow-parth-yellow https://stackoverflow.com/users/13022156/parth-sardana-)
-
+[![Linkedin Badge](https://img.shields.io/badge/-parth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-sardana-106b301a6/)]https://www.linkedin.com/in/parth-sardana-106b301a6/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-parth-yellow)]https://stackoverflow.com/users/13022156/parth-sardana-)
 I'm
 Full Stack Developer
 The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
