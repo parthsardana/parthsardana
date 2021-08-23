@@ -20,7 +20,7 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 💬 Ask me about ...- 🌱 I’m currently learning ...
 📫 You can reach me:  <a href="mailto:parth8sardana@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
-
+![Visitor Coun](https:profile-counter.glitch.me/parthsardana/count.svg)
 
 
 
