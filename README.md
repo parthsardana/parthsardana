@@ -1,5 +1,5 @@
 <h1 align = "center">Hello, I'm Parth Sardana 👋</h1>
-<h3 align = "center">FULL STACK DEVELPOMENT INTERNSHIP EDUREKA</h3>
+<h3 align = "center">FULL STACK DEVELPOMENT</h3>
 
 <a href="https://linkedin.com/in/(https://www.linkedin.com/in/parth-sardana-106b301a6)">
   <img align="left" alt="Parth Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
